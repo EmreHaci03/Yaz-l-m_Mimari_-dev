@@ -7,3 +7,8 @@ Bu proje, kullanıcıların kişisel notlarını kolayca oluşturmasına, düzen
 # Kullanılan Teknolojiler
 Java , Swing
 Mysql
+
+# Takım Arkadaşları
+Medet Arslanparçası
+
+
