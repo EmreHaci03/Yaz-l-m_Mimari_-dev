@@ -2,6 +2,10 @@
 
 Bu proje, Java programlama dili ve Swing kütüphanesi kullanılarak geliştirilmiş basit bir not defteri uygulamasıdır. Proje, metin düzenleme, kaydetme ve yükleme gibi temel özellikler sunmaktadır.
 
+# Takım Arkadaşları
+Medet Arslanparçası
+https://github.com/Medetarslanparcas
+
 ## Özellikler
 
 - **Yeni Dosya Oluşturma**: Mevcut metni temizler ve yeni bir belge oluşturur.
